@@ -1,1 +1,1 @@
-This is GIThub test
+This project is GIThub tutorials
